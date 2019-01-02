@@ -1,4 +1,5 @@
-## Awesome papers on Graph Neural Networks.
+## Awesome resources on Graph Neural Networks.
+This is a collection of resources related with graph neural networks.
 
 ## Contents
 
@@ -9,16 +10,16 @@
   - [Graph Auto-encoder](#gae)
   - [Graph Generative Networks](#ggn)
   - [Graph Spatial-Temporal Networks](#gstn)
-- [Application](#application)
-  - [Computer Vision](#cv)
-  - [Natural Language Processing](#nlp)
-  - [Internet](#web)
-  - [Recommender Systems](#rec)
-  - [Healthcare](#health)
-  - [Chemistry](#chemistry)
-  - [Physics](#physics)
-  - [Others](#others)
-
+  - [Application](#application)
+     - [Computer Vision](#cv)
+     - [Natural Language Processing](#nlp)
+     - [Internet](#web)
+     - [Recommender Systems](#rec)
+     - [Healthcare](#health)
+     - [Chemistry](#chemistry)
+     - [Physics](#physics)
+     - [Others](#others)
+- [Library](#library)
 <a name="surveypapers" />
 
 ## Survey papers
@@ -302,7 +303,12 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 1. **Recurrent Relational Networks.**
 *Rasmus Palm, Ulrich Paquet, Ole Winther.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7597-recurrent-relational-networks.pdf)
 
+<a name="library" />
 
+## Library
 
+1. [pytorch geometric](https://github.com/rusty1s/pytorch_geometric)
+
+1. [deep graph library](https://github.com/dmlc/dgl)
 
 
