@@ -118,6 +118,9 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 1. **Signed graph convolutional network**. *Tyler Derr, Yao Ma, Jiliang Tang.* 2018. [paper](https://arxiv.org/pdf/1808.06354.pdf)
  
+1. **Graph Wavelet Neural Network.** *Bingbing Xu, Huawei Shen, Qi Cao, Yunqi Qiu, Xueqi Cheng.* ICLR 2019. [paper](https://openreview.net/pdf?id=H1ewdiR5tQ)
+
+1. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks** *Renjie Liao, Zhizhen Zhao, Raquel Urtasun, Richard Zemel.* ICLR 2019. [paper](https://openreview.net/pdf?id=BkedznAqKQ)
 <a name="gam" />
 
 ## Graph Attention Models
