@@ -317,4 +317,6 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 1. [deep graph library](https://github.com/dmlc/dgl)
 
+1. [graph nets library](https://github.com/deepmind/graph_nets)
+
 
