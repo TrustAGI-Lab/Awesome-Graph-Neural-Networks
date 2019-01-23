@@ -163,7 +163,7 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 1. **Adversarially Regularized Graph Autoencoder for Graph Embedding.**
 *Shirui Pan, Ruiqi Hu, Guodong Long, Jing Jiang, Lina Yao, Chengqi Zhang.* IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0362.pdf)
 
-1. **Deep graph infomax.** *Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.* 2018. [paper](https://arxiv.org/abs/1809.10341)
+1. **Deep graph infomax.** *Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.* ICLR 2019. [paper](https://arxiv.org/abs/1809.10341)
 
 
 <a name="ggn" />
@@ -180,7 +180,11 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 1. **Graphrnn: A deep generative model for graphs.** *Jiaxuan You, Rex Ying, Xiang Ren, William L. Hamilton, Jure Leskovec.* ICML 2018. [paper](https://arxiv.org/pdf/1802.08773.pdf)
 
+1. **Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders.** *Tengfei Ma, Jie Chen, Cao Xiao.* NeurIPS 2018. [paper](https://papers.nips.cc/paper/7942-constrained-generation-of-semantically-valid-graphs-via-regularizing-variational-autoencoders.pdf)
+
 1. **Graph convolutional policy network for goal-directed molecular graph generation.** *Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec.* NeurIPS 2018. [paper](https://arxiv.org/abs/1806.02473)
+
+
 
 <a name="gstn" />
 
@@ -213,6 +217,8 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 1. **A simple neural network module for relational reasoning.** *Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap.* NIPS 2017 [paper](https://arxiv.org/pdf/1706.01427.pdf)
 
+1. **Situation Recognition with Graph Neural Networks.** *Ruiyu Li, Makarand Tapaswi, Renjie Liao, Jiaya Jia, Raquel Urtasun, Sanja Fidler.* ICCV 2017. [paper](https://arxiv.org/pdf/1708.04320)
+
 1. **Image generation from scene graphs.** *Justin Johnson, Agrim Gupta, Li Fei-Fei.* CVPR 2018. [paper](https://arxiv.org/pdf/1804.01622.pdf)
 
 1. **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.**
@@ -228,11 +234,15 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 1. **Out of the box: Reasoning with graph convolution nets for factual visual question answering.** *Medhini Narasimhan, Svetlana Lazebnik, Alexander G. Schwing.* NeurIPS 2018. [paper](https://arxiv.org/pdf/1811.00538.pdf)
 
+1. **Symbolic Graph Reasoning Meets Convolutions.** *Xiaodan Liang, Zhiting Hu, Hao Zhang, Liang Lin, Eric P. Xing.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7456-symbolic-graph-reasoning-meets-convolutions.pdf)
+
 1. **Few-shot learning with graph neural networks.** *Victor Garcia, Joan Bruna.* ICLR 2018. [paper](https://arxiv.org/abs/1711.04043)
 
 1. **Factorizable net: an efficient subgraph-based framework for scene graph generation.** *Yikang Li, Wanli Ouyang, Bolei Zhou, Jianping Shi, Chao Zhang, Xiaogang Wang.* ECCV 2018. [paper](https://arxiv.org/abs/1806.11538)
 
 1. **Graph r-cnn for scene graph generation.** *Jianwei Yang, Jiasen Lu, Stefan Lee, Dhruv Batra, Devi Parikh.* ECCV 2018. [paper](https://arxiv.org/pdf/1808.00191.pdf)
+
+1. **Learning Human-Object Interactions by Graph Parsing Neural Networks.** *Siyuan Qi, Wenguan Wang, Baoxiong Jia, Jianbing Shen, Song-Chun Zhu.* ECCV 2018. [paper](https://arxiv.org/pdf/1808.07962.pdf)
 
 1. **Neural graph matching networks for fewshot 3d action recognition.** *Michelle Guo, Edward Chou, De-An Huang, Shuran Song, Serena Yeung, Li Fei-Fei* ECCV 2018. [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Neural_Graph_Matching_ECCV_2018_paper.pdf)
 
@@ -242,12 +252,14 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 <a name="nlp" />
 
-### Natural language processing
+### Natural Language Processing
 1. **Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling.**
 *Diego Marcheggiani, Ivan Titov.* EMNLP 2017. [paper](https://arxiv.org/abs/1703.04826)
 
 1. **Graph Convolutional Encoders for Syntax-aware Neural Machine Translation.**
 *Joost Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima'an.* EMNLP 2017. [paper](https://arxiv.org/pdf/1704.04675)
+
+
 
 1. **Diffusion maps for textual network embedding.** *Xinyuan Zhang, Yitong Li, Dinghan Shen, Lawrence Carin.* NeurIPS 2018. [paper](https://arxiv.org/pdf/1805.09906.pdf)
 
@@ -256,8 +268,18 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 1. **Graph-to-Sequence Learning using Gated Graph Neural Networks.** *Daniel Beck, Gholamreza Haffari, Trevor Cohn.* ACL 2018. [paper](https://arxiv.org/pdf/1806.09835.pdf)
 
-1. **Graph Convolutional Networks for Text Classification.** Liang Yao, Chengsheng Mao, Yuan Luo. AAAI 2019. [paper](https://arxiv.org/pdf/1809.05679.pdf)
 
+
+
+1. **Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks.** *Zhichun Wang, Qingsong Lv, Xiaohan Lan, Yu Zhang.* EMNLP 2018. [paper](http://www.aclweb.org/anthology/D18-1032)
+
+1. **Graph Convolution over Pruned Dependency Trees Improves Relation Extraction.**  *Yuhao Zhang, Peng Qi, Christopher D. Manning.* EMNLP 2018. [paper](https://arxiv.org/pdf/1809.10185)
+
+1. **Multiple Events Extraction via Attention-based Graph Information Aggregation.** *Xiao Liu, Zhunchen Luo, Heyan Huang.* EMNLP 2018. [paper](https://arxiv.org/pdf/1809.09078.pdf)
+
+1. **Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks.** *Diego Marcheggiani, Joost Bastings, Ivan Titov.* NAACL 2018. [paper](http://www.aclweb.org/anthology/N18-2078)
+
+1. **Graph Convolutional Networks for Text Classification.** *Liang Yao, Chengsheng Mao, Yuan Luo.* AAAI 2019. [paper](https://arxiv.org/pdf/1809.05679.pdf)
 <a name="web" />
 
 ### Internet
@@ -291,6 +313,8 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 1. **MILE: A Multi-Level Framework for Scalable Graph Embedding.**
 *Jiongqian Liang, Saket Gurukar, Srinivasan Parthasarathy.* [paper](https://arxiv.org/pdf/1802.09612.pdf) 
 
+1. **Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification.** *Sungmin Rhee, Seokjun Seo, Sun Kim.* IJCAI 2018. [paper](https://arxiv.org/abs/1711.05859)
+
 <a name="chemistry" />
 
 ### Chemistry
@@ -298,6 +322,10 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 *Steven Kearnes, Kevin McCloskey, Marc Berndl, Vijay Pande, Patrick Riley.* Journal of computer-aided molecular design 2016. [paper](https://arxiv.org/pdf/1603.00856.pdf)
 
 1. **Protein interface prediction using graph convolutional networks.** *Alex Fout, Jonathon Byrd, Basir Shariat, Asa Ben-Hur.* NIPS 2017. [paper](https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks.pdf)
+
+
+1. **Modeling polypharmacy side effects with graph convolutional networks.** *Marinka Zitnik, Monica Agrawal, Jure Leskovec.* ISMB 2018. [paper](https://arxiv.org/abs/1802.00543)
+
 
 <a name="physics" />
 
@@ -319,6 +347,7 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 1. **Recurrent Relational Networks.**
 *Rasmus Palm, Ulrich Paquet, Ole Winther.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7597-recurrent-relational-networks.pdf)
 
+1. **NerveNet: Learning Structured Policy with Graph Neural Networks.** *Tingwu Wang, Renjie Liao, Jimmy Ba, Sanja Fidler.* ICLR 2018. [paper](https://openreview.net/pdf?id=S1sqHMZCb)
 <a name="library" />
 
 ## Library
