@@ -24,6 +24,8 @@ This is a collection of resources related with graph neural networks.
 
 ## Survey papers
 
+1. **A Comprehensive Survey on Graph Neural Networks.** *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.* 2019 [paper](https://arxiv.org/pdf/1901.00596.pdf)
+
 1. **Geometric deep learning: going beyond euclidean data.** *Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst.*  2016. [paper](https://arxiv.org/pdf/1611.08097.pdf)
 
 1. **Relational inductive biases, deep learning, and graph networks.**
@@ -35,7 +37,6 @@ This is a collection of resources related with graph neural networks.
 
 1. **Graph Neural Networks: A Review of Methods and Applications** *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 2018 [paper](https://arxiv.org/pdf/1812.08434.pdf)
 
-1. **A Comprehensive Survey on Graph Neural Networks.** *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.* 2018 [paper](https://arxiv.org/pdf/1901.00596.pdf)
 
 
 <a name="papers" />
