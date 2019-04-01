@@ -123,6 +123,8 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
  
 1. **Combining Neural Networks with Personalized PageRank for Classification on Graphs** *Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.* ICLR 2019. [paper](https://openreview.net/pdf?id=H1gL-2A9Ym)
 
+1. **DIFFUSION SCATTERING TRANSFORMS ON GRAPHS.** *Fernando Gama, Alejandro Ribeiro, Joan Bruna.* ICLR 2019. [paper](https://arxiv.org/pdf/1806.08829.pdf)
+
 1. **Graph Wavelet Neural Network.** *Bingbing Xu, Huawei Shen, Qi Cao, Yunqi Qiu, Xueqi Cheng.* ICLR 2019. [paper](https://openreview.net/pdf?id=H1ewdiR5tQ)
 
 1. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks** *Renjie Liao, Zhizhen Zhao, Raquel Urtasun, Richard Zemel.* ICLR 2019. [paper](https://openreview.net/pdf?id=BkedznAqKQ)
