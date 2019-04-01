@@ -157,7 +157,7 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 
 
-1. **Link Prediction Based on Graph Neural Networks.** *Muhan Zhang, Yixin Chen.* [paper](https://arxiv.org/pdf/1802.09691.pdf)
+1. **Link Prediction Based on Graph Neural Networks.** *Muhan Zhang, Yixin Chen.* NeurIPS 2018. [paper](https://arxiv.org/pdf/1802.09691.pdf)
 
 1. **SpectralNet: Spectral Clustering using Deep Neural Networks** *Uri Shaham, Kelly Stanton, Henry Li, Boaz Nadler, Ronen Basri, Yuval Kluger.* ICLR 2018. [paper](https://arxiv.org/pdf/1801.01587.pdf)
 
