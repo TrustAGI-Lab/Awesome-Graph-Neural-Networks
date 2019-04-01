@@ -155,6 +155,13 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 1. **Mgae: Marginalized graph autoencoder for graph clustering** *Chun Wang, Shirui Pan, Guodong Long, Xingquan Zhu, Jing Jiang.* CIKM 2017. [paper](https://shiruipan.github.io/pdf/CIKM-17-Wang.pdf)
 
+
+
+1. **Link Prediction Based on Graph Neural Networks.** *Muhan Zhang, Yixin Chen.* [paper](https://arxiv.org/pdf/1802.09691.pdf)
+
+1. **SpectralNet: Spectral Clustering using Deep Neural Networks** *Uri Shaham, Kelly Stanton, Henry Li, Boaz Nadler, Ronen Basri, Yuval Kluger.* ICLR 2018. [paper](https://arxiv.org/pdf/1801.01587.pdf)
+
+
 1. **Deep Recursive Network Embedding with Regular Equivalence.**
 *Ke Tu, Peng Cui, Xiao Wang, Philip S. Yu, Wenwu Zhu.* KDD 2018. [paper](http://cuip.thumedialab.com/papers/NE-RegularEquivalence.pdf)
 
