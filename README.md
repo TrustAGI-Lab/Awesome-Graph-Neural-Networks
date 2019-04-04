@@ -93,7 +93,6 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 1. **Deeper insights into graph convolutional networks for semi-supervised learning.** *Qimai Li, Zhichao Han, Xiao-Ming Wu.* AAAI 2018. [paper](https://arxiv.org/pdf/1801.07606.pdf)
 
 
-
 1. **Large-Scale Learnable Graph Convolutional Networks.** *Hongyang Gao, Zhengyang Wang, Shuiwang Ji.* KDD 2018. [paper](https://arxiv.org/pdf/1808.03965.pdf)
 1. **FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling.**
 *Jie Chen, Tengfei Ma, Cao Xiao.* ICLR 2018. [paper](https://arxiv.org/pdf/1801.10247.pdf)
@@ -107,7 +106,6 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 *Jianfei Chen, Jun Zhu, Le Song.* ICML 2018. [paper](https://arxiv.org/pdf/1710.10568.pdf)
 1. **Dual graph convolutional networks for graph-based semi-supervised classification** *Chenyi Zhuang, Qiang Ma.* WWW 2018. [paper](http://delivery.acm.org/10.1145/3190000/3186116/p499-zhuang.pdf?ip=1.129.110.137&id=3186116&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1546208231_ba22bb40f3bc41441d1fea0606eb8adb)
 
-1. **Geniepath: Graph neural networks with adaptive receptive paths.** Ziqi Liu, Chaochao Chen, Longfei Li, Jun Zhou, Xiaolong Li, Le Song, Yuan Qi. 2018. [paper](https://arxiv.org/pdf/1802.00910.pdf)
 
 1. **Graph capsule convolutional neural networks** *Saurabh Verma, Zhi-Li Zhang.* 2018. [paper](https://arxiv.org/abs/1805.08090)
 
@@ -130,8 +128,13 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 1. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks** *Renjie Liao, Zhizhen Zhao, Raquel Urtasun, Richard Zemel.* ICLR 2019. [paper](https://openreview.net/pdf?id=BkedznAqKQ)
 
 
+1. **Bayesian Graph Convolutional Neural Networks for Semi-supervised Classification** *Yingxue Zhang, Soumyasundar Pal, Mark Coates, Deniz Üstebay.* AAAI 2019. [paper] (https://arxiv.org/pdf/1811.11103.pdf)
 
+1. **Geniepath: Graph neural networks with adaptive receptive paths.** Ziqi Liu, Chaochao Chen, Longfei Li, Jun Zhou, Xiaolong Li, Le Song, Yuan Qi. AAAI 2019. [paper](https://arxiv.org/pdf/1802.00910.pdf)
 
+1. **Hypergraph Neural Networks.** *Yifan Feng, Haoxuan You, Zizhao Zhang, Rongrong Ji, Yue Gao* AAAI 2019. [paper](https://arxiv.org/pdf/1809.09401.pdf)
+
+1. **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks.** *Christopher Morris, Martin Ritzert, Matthias Fey, William L. Hamilton, Jan Eric Lenssen, Gaurav Rattan, Martin Grohe* AAAI 2019. [paper](https://arxiv.org/pdf/1810.02244.pdf)
 <a name="gam" />
 
 
@@ -212,8 +215,11 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 1. **Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting.** *Bing Yu, Haoteng Yin, Zhanxing Zhu.* IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf)
 
+1. **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, HuaiyuWan* AAAI 2019. [paper](https://github.com/Davidham3/ASTGCN/blob/master/2019%20AAAI_Attention%20Based%20Spatial-Temporal%20Graph%20Convolutional%20Networks%20for%20Traffic%20Flow%20Forecasting.pdf)
 
+1. **Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting.** *Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu.* AAAI 2019. [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf)
 
+1. **Spatio-Temporal Graph Routing for Skeleton-based Action Recognition.** *Bin Li, Xi Li, Zhongfei Zhang, Fei Wu.* [paper](https://www.aaai.org/Papers/AAAI/2019/AAAI-LiBin.6992.pdf)
 <a name="application" />
 
 ## Application
@@ -315,6 +321,8 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 1. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems.**
 *Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.* KDD 2018. [paper](https://arxiv.org/pdf/1806.01973.pdf)
 
+1. **Session-based Recommendation with Graph Neural Networks.** *Shu Wu, Yuyuan Tang, Yanqiao Zhu, Liang Wang, Xing Xie, Tieniu Tan.* AAAI 2019. [paper](https://arxiv.org/pdf/1811.00855.pdf)
+
 <a name="health" />
 
 ### Healthcare
@@ -325,6 +333,7 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 1. **Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification.** *Sungmin Rhee, Seokjun Seo, Sun Kim.* IJCAI 2018. [paper](https://arxiv.org/abs/1711.05859)
 
+1. **GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination.** *Junyuan Shang, Cao Xiao, Tengfei Ma, Hongyan Li, Jimeng Sun.* AAAI 2019. [paper](https://arxiv.org/pdf/1809.01852.pdf)
 <a name="chemistry" />
 
 ### Chemistry
