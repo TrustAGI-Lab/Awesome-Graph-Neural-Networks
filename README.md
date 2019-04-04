@@ -219,7 +219,7 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 1. **Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting.** *Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu.* AAAI 2019. [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf)
 
-1. **Spatio-Temporal Graph Routing for Skeleton-based Action Recognition.** *Bin Li, Xi Li, Zhongfei Zhang, Fei Wu.* [paper](https://www.aaai.org/Papers/AAAI/2019/AAAI-LiBin.6992.pdf)
+1. **Spatio-Temporal Graph Routing for Skeleton-based Action Recognition.** *Bin Li, Xi Li, Zhongfei Zhang, Fei Wu.*  AAAI 2019. [paper](https://www.aaai.org/Papers/AAAI/2019/AAAI-LiBin.6992.pdf)
 <a name="application" />
 
 ## Application
