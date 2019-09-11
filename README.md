@@ -47,11 +47,14 @@ This is a collection of resources related with graph neural networks.
 <a name="rgnn" />
 
 ### Recurrent Graph Neural Networks
+1. **Supervised neural networks for the classification of structures** *A. Sperduti and A. Starita.* IEEE Transactions on Neural Networks 1997. [paper](https://www.ncbi.nlm.nih.gov/pubmed/18255672)
 
 1. **A new model for learning in graph domains.** *Marco Gori, Gabriele Monfardini, Franco Scarselli.* IJCNN 2005. [paper](https://ieeexplore.ieee.org/abstract/document/1555942)
 
 1. **The graph neural network model.** *Franco Scarselli,Marco Gori,Ah Chung Tsoi,Markus Hagenbuchner,
 Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1015.7227&rep=rep1&type=pdf)
+
+1. **Graph echo state networks.** *Claudio Gallicchio, Alessio Micheli* IJCNN 2010. [https://ieeexplore.ieee.org/abstract/document/5596796] 
 
 1. **Gated graph sequence neural networks.** *Yujia Li, Richard Zemel, Marc Brockschmidt, Daniel Tarlow.* ICLR 2015. [paper](https://arxiv.org/pdf/1511.05493.pdf)
 
@@ -60,11 +63,11 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 <a name="cgnn" />
 
 ### Convolutional Graph Neural Networks
+1. **Neural network for graphs: A contextual constructive approach.** *A. Micheli.*  IEEE Transactions on Neural Networks 2009. [paper](https://ieeexplore.ieee.org/abstract/document/4773279)
 
 1. **Spectral networks and locally connected networks on graphs.** *Joan Bruna, Wojciech Zaremba, Arthur Szlam, Yann LeCun.* ICLR 2014. [paper](https://arxiv.org/pdf/1312.6203.pdf)
 
 1. **Convolutional networks on graphs for learning molecular fingerprints.** *David Duvenaud, Dougal Maclaurin, Jorge Aguilera-Iparraguirre Rafael Go ́mez-Bombarelli, Timothy Hirzel, Ala ́n Aspuru-Guzik, Ryan P. Adams.*, NIPS 2015. [paper](http://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
-
 
 1. **Accelerated filtering on graphs using lanczos method.** *Ana Susnjara, Nathanael Perraudin, Daniel Kressner, Pierre Vandergheynst.* 2015. [paper](https://arxiv.org/pdf/1509.04537.pdf)
 
@@ -104,7 +107,6 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 1. **Large-Scale Learnable Graph Convolutional Networks.** *Hongyang Gao, Zhengyang Wang, Shuiwang Ji.* KDD 2018. [paper](https://arxiv.org/pdf/1808.03965.pdf)
 
 
-
 1. **Graph Attention Networks.**
 *Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio.* ICLR 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
 
@@ -117,6 +119,9 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.**
 *Jianfei Chen, Jun Zhu, Le Song.* ICML 2018. [paper](https://arxiv.org/pdf/1710.10568.pdf)
 
+1. **Contextual graph markov model: A deep and generative approach to graph processing.** *D. Bacciu, F. Errica,  A. Micheli.* ICML 2018. [paper](https://arxiv.org/abs/1805.10636)
+
+1. **On filter size in graph convolutional network.** *D. V. Tran, A. Sperduti et al.* SSCI. IEEE, 2018. [paper](https://arxiv.org/pdf/1811.10435.pdf)
 
 1. **Dual graph convolutional networks for graph-based semi-supervised classification** *Chenyi Zhuang, Qiang Ma.* WWW 2018. [paper](http://delivery.acm.org/10.1145/3190000/3186116/p499-zhuang.pdf?ip=1.129.110.137&id=3186116&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1546208231_ba22bb40f3bc41441d1fea0606eb8adb)
 
@@ -231,9 +236,11 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 1. **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, HuaiyuWan* AAAI 2019. [paper](https://github.com/Davidham3/ASTGCN/blob/master/2019%20AAAI_Attention%20Based%20Spatial-Temporal%20Graph%20Convolutional%20Networks%20for%20Traffic%20Flow%20Forecasting.pdf)
 
-1. **Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting.** *Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu.* AAAI 2019. [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf)
+1. **Spatio-temporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting.** *Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu.* AAAI 2019. [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf)
 
 1. **Spatio-Temporal Graph Routing for Skeleton-based Action Recognition.** *Bin Li, Xi Li, Zhongfei Zhang, Fei Wu.*  AAAI 2019. [paper](https://www.aaai.org/Papers/AAAI/2019/AAAI-LiBin.6992.pdf)
+
+1. **Graph wavenet for deep spatial-temporal graph modeling** *Z. Wu, S. Pan, G. Long, J. Jiang, and C. Zhang* IJCAI 2019. [paper](https://arxiv.org/abs/1906.00121)
 <a name="application" />
 
 ## Application
