@@ -55,7 +55,7 @@ This is a collection of resources related with graph neural networks.
 1. **The graph neural network model.** *Franco Scarselli,Marco Gori,Ah Chung Tsoi,Markus Hagenbuchner,
 Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1015.7227&rep=rep1&type=pdf)
 
-1. **Graph echo state networks.** *Claudio Gallicchio, Alessio Micheli* IJCNN 2010. [https://ieeexplore.ieee.org/abstract/document/5596796] 
+1. **Graph echo state networks.** *Claudio Gallicchio, Alessio Micheli* IJCNN 2010. [paper](https://ieeexplore.ieee.org/abstract/document/5596796)
 
 1. **Gated graph sequence neural networks.** *Yujia Li, Richard Zemel, Marc Brockschmidt, Daniel Tarlow.* ICLR 2015. [paper](https://arxiv.org/pdf/1511.05493.pdf)
 
@@ -135,6 +135,7 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 1. **Graph Representation Learning via Hard and Channel-Wise Attention Networks.** *Hongyang Gao, Shuiwang Ji.* 2019 KDD. [paper](https://www.kdd.org/kdd2019/accepted-papers/view/graph-representation-learning-via-hard-and-channel-wise-attention-networks) 
 
+1. **Understanding Attention and Generalization in Graph Neural Networks.** *Boris Knyazev, Graham W. Taylor, Mohamed R. Amer.* NeurIPS 2019. [paper](https://arxiv.org/abs/1905.02850)
 
 #### Convolution 
 
@@ -184,6 +185,7 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 1. **Bayesian Semi-supervised Learning with Graph Gaussian Processes
 .** *Yin Cheng Ng, Nicolò Colombo, Ricardo Silva*  NeurIPS 2018. [paper](https://papers.nips.cc/paper/7440-bayesian-semi-supervised-learning-with-graph-gaussian-processes.pdf)
 
+	> It redefines the kernel function in Gaussian Process with graph structure information. 
 
 1. **Bayesian Graph Convolutional Neural Networks for Semi-supervised Classification** *Yingxue Zhang, Soumyasundar Pal, Mark Coates, Deniz Üstebay.* AAAI 2019. [paper] (https://arxiv.org/pdf/1811.11103.pdf)
 
@@ -210,6 +212,9 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 1. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks** *Renjie Liao, Zhizhen Zhao, Raquel Urtasun, Richard Zemel.* ICLR 2019. [paper](https://openreview.net/pdf?id=BkedznAqKQ)
 
 1. **Hypergraph Neural Networks.** *Yifan Feng, Haoxuan You, Zizhao Zhang, Rongrong Ji, Yue Gao* AAAI 2019. [paper](https://arxiv.org/pdf/1809.09401.pdf)
+
+1. **HyperGCN: A New Method of Training Graph Convolutional Networks on Hypergraphs.** *
+Naganand Yadati, Madhav Nimishakavi, Prateek Yadav, Vikram Nitin, Anand Louis, Partha Talukdar.* NeurIPS 2019. [paper](https://arxiv.org/abs/1809.02589)
 
 
 
@@ -288,7 +293,7 @@ Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song.* ICML 2017 [paper](https://ar
 
 1. **Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting.** *Bing Yu, Haoteng Yin, Zhanxing Zhu.* IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf)
 
-1. **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, HuaiyuWan* AAAI 2019. [paper](https://github.com/Davidham3/ASTGCN/blob/master/2019%20AAAI_Attention%20Based%20Spatial-Temporal%20Graph%20Convolutional%20Networks%20for%20Traffic%20Flow%20Forecasting.pdf)
+1. **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, HuaiyuWan* AAAI 2019. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/3881)
 
 1. **Spatio-temporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting.** *Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu.* AAAI 2019. [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf)
 
@@ -449,6 +454,12 @@ Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song.* ICML 2017 [paper](https://ar
 
 1. **NerveNet: Learning Structured Policy with Graph Neural Networks.** *Tingwu Wang, Renjie Liao, Jimmy Ba, Sanja Fidler.* ICLR 2018. [paper](https://openreview.net/pdf?id=S1sqHMZCb)
 <a name="library" />
+
+
+1. **Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance.** *Dasaem Jeong, Taegyun Kwon, Yoojin Kim, Juhan Nam.* [paper]()
+
+
+1. **Circuit-GNN: Graph Neural Networks for Distributed Circuit Design.** *GUO ZHANG, Hao He, Dina Katabi* [paper](https://icml.cc/Conferences/2019/Schedule?showEvent=4826)
 
 ## Library
 
