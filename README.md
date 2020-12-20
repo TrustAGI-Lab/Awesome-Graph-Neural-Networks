@@ -302,6 +302,8 @@ Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song.* ICML 2017 [paper](https://ar
 1. **Spatio-Temporal Graph Routing for Skeleton-based Action Recognition.** *Bin Li, Xi Li, Zhongfei Zhang, Fei Wu.*  AAAI 2019. [paper](https://www.aaai.org/Papers/AAAI/2019/AAAI-LiBin.6992.pdf)
 
 1. **Graph wavenet for deep spatial-temporal graph modeling** *Z. Wu, S. Pan, G. Long, J. Jiang, and C. Zhang* IJCAI 2019. [paper](https://arxiv.org/abs/1906.00121)
+
+1. **Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction.** *Weijia Zhang, Hao Liu, Yanchi Liu, Jingbo Zhou, Hui Xiong.* AAAI 2020. [paper](https://arxiv.org/pdf/1911.10516.pdf)
 <a name="application" />
 
 ## Application
