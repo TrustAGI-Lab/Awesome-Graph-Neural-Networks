@@ -28,6 +28,8 @@ This is a collection of resources related with graph neural networks.
 
 1. **A Comprehensive Survey on Graph Neural Networks.** *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.* 2019 [paper](https://arxiv.org/pdf/1901.00596.pdf)
 
+1. **Adversarial Attack and Defense on Graph Data: A Survey.** *Lichao Sun, Yingtong Dou, Carl Yang, Ji Wang, Philip S. Yu, Bo Li.* 2018 [paper](https://arxiv.org/pdf/1812.10528.pdf)
+
 1. **Geometric deep learning: going beyond euclidean data.** *Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst.*  2016. [paper](https://arxiv.org/pdf/1611.08097.pdf)
 
 1. **Relational inductive biases, deep learning, and graph networks.**
@@ -461,6 +463,8 @@ Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song.* ICML 2017 [paper](https://ar
 
 1. **Circuit-GNN: Graph Neural Networks for Distributed Circuit Design.** *GUO ZHANG, Hao He, Dina Katabi* [paper](https://icml.cc/Conferences/2019/Schedule?showEvent=4826)
 
+1. **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection** *Zhiwei Liu, Yingtong Dou, Philip S. Yu, Yutong Deng, Hao Peng.* 2020. [paper](https://arxiv.org/pdf/2005.00625.pdf)
+
 ## Library
 
 1. [pytorch geometric](https://github.com/rusty1s/pytorch_geometric)
@@ -469,4 +473,4 @@ Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song.* ICML 2017 [paper](https://ar
 
 1. [graph nets library](https://github.com/deepmind/graph_nets)
 
-
+1. [GNN-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud)
