@@ -469,10 +469,12 @@ Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song.* ICML 2017 [paper](https://ar
 
 ## Library
 
-1. [pytorch geometric](https://github.com/rusty1s/pytorch_geometric)
+1. **PyTorch Geometric (PyG)**: [Github](https://github.com/rusty1s/pytorch_geometric) | [Doc](https://pytorch-geometric.readthedocs.io/) | [Examples](https://github.com/rusty1s/pytorch_geometric/tree/master/examples)
 
-1. [deep graph library](https://github.com/dmlc/dgl)
+1. **Deep Graph Library (DGL)**: [Github](https://github.com/dmlc/dgl) | [Doc](https://docs.dgl.ai/) | [Examples](https://github.com/dmlc/dgl/blob/master/examples/README.md)
 
-1. [graph nets library](https://github.com/deepmind/graph_nets)
+1. **tf_geometric**: [Github](https://github.com/CrawlScript/tf_geometric) | [Doc](https://tf-geometric.readthedocs.io) | [Examples](https://github.com/CrawlScript/tf_geometric/tree/master/demo)
 
-1. [GNN-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud)
+1. **Graph Nets library**: [Github](https://github.com/deepmind/graph_nets) | [Doc](https://github.com/deepmind/graph_nets/tree/master/docs)
+
+1. **GNN-based Fraud Detection Toolbox**: [Github](https://github.com/safe-graph/DGFraud)
