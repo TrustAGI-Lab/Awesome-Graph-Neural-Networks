@@ -467,6 +467,10 @@ Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song.* ICML 2017 [paper](https://ar
 
 1. **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection** *Zhiwei Liu, Yingtong Dou, Philip S. Yu, Yutong Deng, Hao Peng.* 2020. [paper](https://arxiv.org/pdf/2005.00625.pdf)
 
+1. **Graph Neural Networks and Reinforcement Learning for Behavior Generation in Semantic Environments.** *Patrick Hart, Alois Knoll.*  IV 2020. [paper](https://arxiv.org/abs/2006.12576)
+
+	
+
 ## Library
 
 1. [pytorch geometric](https://github.com/rusty1s/pytorch_geometric)
