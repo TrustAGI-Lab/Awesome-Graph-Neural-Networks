@@ -421,6 +421,9 @@ Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song.* ICML 2017 [paper](https://ar
 <a name="chemistry" />
 
 ### Chemistry
+1.  **Automatic Generation of Complementary Descriptors with Molecular Graph Networks.**
+*Christian Merkwirth and Thomas Lengauer.* J.Chem.Inf.Model. 2005. [paper](https://pubs.acs.org/doi/10.1021/ci049613b)
+
 1. **Molecular Graph Convolutions: Moving Beyond Fingerprints.**
 *Steven Kearnes, Kevin McCloskey, Marc Berndl, Vijay Pande, Patrick Riley.* Journal of computer-aided molecular design 2016. [paper](https://arxiv.org/pdf/1603.00856.pdf)
 
