@@ -476,3 +476,7 @@ Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song.* ICML 2017 [paper](https://ar
 1. [graph nets library](https://github.com/deepmind/graph_nets)
 
 1. [GNN-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud)
+
+## Books
+
+1. [Graph Neural Networks in Action](https://www.manning.com/books/graph-neural-networks-in-action)
