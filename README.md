@@ -256,7 +256,9 @@ Naganand Yadati, Madhav Nimishakavi, Prateek Yadav, Vikram Nitin, Anand Louis, P
 
 1. **Deep graph infomax.** *Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.* ICLR 2019. [paper](https://arxiv.org/abs/1809.10341)
 
+1. **Contrastive Deep Nonnegative Matrix Factorization for Community Detection.** *Yuecheng Li, Jialong Chen, Chuan Chen, Lei Yang, Zibin Zheng.* ICASSP 2024. [paper](https://arxiv.org/abs/2311.02357)
 
+   
 ### Graph Generation
 
 1. **Learning graphical state transitions.** *Daniel D. Johnson.* ICLR 2016. [paper](https://openreview.net/pdf?id=HJ0NvFzxl)
